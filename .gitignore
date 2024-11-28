@@ -1,0 +1,11 @@
+node_modules/
+.env
+
+.DS_Store
+images/
+scrape.py
+uploads/
+
+# *.jpg
+# *.png
+# *jpeg
